@@ -1,0 +1,25 @@
+html,body,#app{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.ant-card{
+    /* margin: 10px; */
+    background-color: aliceblue;
+}
+
+.ant-row{
+    margin-bottom:14px;
+    text-align: center;
+}
+
+/* #addbook .ant-table{
+    margin-top: 15px;
+} */
+#addbook .ant-card-body{
+    padding: 4px;
+}
+/* #addbook .ant-form-item{
+    margin-bottom:4px;
+} */
